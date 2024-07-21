@@ -1,0 +1,8 @@
+openai
+tiktoken
+langchain
+langchain-core
+langchain-community
+langchainhub 
+faiss-cpu 
+unstructured
